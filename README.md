@@ -6,3 +6,4 @@ Tools To CNN Model
 * Keras
 * Tensorflow
 ## Dataset 
+[Soil Types Dataset](https://www.kaggle.com/prasanshasatpathy/soil-types)
