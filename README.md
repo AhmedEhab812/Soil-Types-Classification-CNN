@@ -14,4 +14,4 @@ This Dataset Contains images of Soil Types collected under different environment
 * Laterite Soil. 
 * Yellow Soil.
 
-[Soil Types Dataset](https://www.kaggle.com/prasanshasatpathy/soil-types)
+LINK: [Soil Types Dataset](https://www.kaggle.com/prasanshasatpathy/soil-types)
