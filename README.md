@@ -1,4 +1,4 @@
-# Soil-Types-Classification
+# Soil-Types-Classification-CNN
 A CNN Model That Can Detect Soil Types 
 ### For Developing a Soil Types Classification, i use:
 * Convolutional Neural Network: is a class of deep neural networks, most applied to analysing visual imagery. its widely used in applications of image and video recognition.
